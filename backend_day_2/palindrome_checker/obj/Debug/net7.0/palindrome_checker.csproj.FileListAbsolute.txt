@@ -1,0 +1,15 @@
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.csproj.AssemblyReference.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.AssemblyInfoInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.AssemblyInfo.cs
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.csproj.CoreCompileInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\bin\Debug\net7.0\palindrome_checker.exe
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\bin\Debug\net7.0\palindrome_checker.deps.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\bin\Debug\net7.0\palindrome_checker.runtimeconfig.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\bin\Debug\net7.0\palindrome_checker.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\bin\Debug\net7.0\palindrome_checker.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\refint\palindrome_checker.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\palindrome_checker.genruntimeconfig.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_2\palindrome_checker\obj\Debug\net7.0\ref\palindrome_checker.dll

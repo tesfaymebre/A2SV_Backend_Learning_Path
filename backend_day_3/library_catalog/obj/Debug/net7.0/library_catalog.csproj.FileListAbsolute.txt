@@ -1,0 +1,15 @@
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\bin\Debug\net7.0\library_catalog.exe
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\bin\Debug\net7.0\library_catalog.deps.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\bin\Debug\net7.0\library_catalog.runtimeconfig.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\bin\Debug\net7.0\library_catalog.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\bin\Debug\net7.0\library_catalog.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.csproj.AssemblyReference.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.AssemblyInfoInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.AssemblyInfo.cs
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.csproj.CoreCompileInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\refint\library_catalog.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\library_catalog.genruntimeconfig.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_3\library_catalog\obj\Debug\net7.0\ref\library_catalog.dll

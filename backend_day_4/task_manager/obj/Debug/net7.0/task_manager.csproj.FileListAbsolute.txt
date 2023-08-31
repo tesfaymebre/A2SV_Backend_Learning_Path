@@ -1,0 +1,15 @@
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.csproj.AssemblyReference.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.AssemblyInfoInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.AssemblyInfo.cs
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.csproj.CoreCompileInputs.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\bin\Debug\net7.0\task_manager.exe
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\bin\Debug\net7.0\task_manager.deps.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\bin\Debug\net7.0\task_manager.runtimeconfig.json
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\bin\Debug\net7.0\task_manager.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\bin\Debug\net7.0\task_manager.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\refint\task_manager.dll
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.pdb
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\task_manager.genruntimeconfig.cache
+E:\documents\A2SV_Backend_Learning_Path\A2SV_Backend_Learning_Path\backend_day_4\task_manager\obj\Debug\net7.0\ref\task_manager.dll
